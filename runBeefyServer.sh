@@ -1,0 +1,1 @@
+beefy download.js:bundle.js --open
